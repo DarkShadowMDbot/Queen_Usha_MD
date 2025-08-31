@@ -1,7 +1,7 @@
 <div align="center"><h1>🧚‍♂️ QUEEN USHA MD🧚‍♂️</h1><a href="https://github.com/LAKIYA-MD/LAKIYA-MD"><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/usha11.png" width="1280" height="720"></a></div>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+USHA+MD+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&multiline=false&lines=QUEEN+USHA+MD+BOT" alt="">
 </p>
 
 ***
