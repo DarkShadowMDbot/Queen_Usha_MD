@@ -1,81 +1,117 @@
-<div align="center"><h1>🧚‍♂️Queen Usha MD🧚‍♂️</h1><a href=""><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/usha11.png" width="1280" height="720"></a></div>
+# 🌟 Usha MD Vx1 WhatsApp Bot
 
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+USHA+MD+BOT" alt="">
-</p>
+Welcome to **Usha MD Vx1** – your next-gen, fully animated WhatsApp bot!  
+Experience a fusion of **vivid colors**, **dynamic animations**, and a **futuristic interface**.
 
+---
 
-## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
+![Animated Neon Banner](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/banner-animated.gif)
 
-<a href='https://mini.goldenqueen.store/pair' target="_blank"><img alt='MAIN WEB' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+---
+
+## ✨ Features
+
+- **Animated UI**: Lively transitions, bouncing icons, and glowing effects.
+- **Ultra-Modern Design**: Glass panels, neon gradients, and cyberpunk vibes.
+- **Rich Color Palette**: Electric blues, vibrant pinks, and shimmering purples.
+- **Real-Time Interactions**: Fast, responsive, and visually stimulating chats.
+- **Customizable Themes**: Switch between dark, neon, or gradient looks.
+
+---
+
+## 🚀 Quick Start
 
 ```bash
-⚠️ if there any error please infrom it support group. | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+git clone https://github.com/DarkShadowMDbot/usha-md-vx1.git
+cd usha-md-vx1
+npm install
+npm start
 ```
 
-## Click the button below to deploy. | Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
- 
- <details close>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗖𝗛𝗢𝗜𝗦𝗘 𝗬𝗢𝗨𝗥 𝗙𝗔𝗩𝗢𝗨𝗥𝗜𝗧𝗘 𝗣𝗟𝗔𝗧𝗙𝗥𝗢𝗠 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
- 
-<br><br>   
-   
-<h4 align="center"> Deploy on Repl.it
-</h4>
+---
 
-<p align="center" >
-    <a href="https://repl.it/github/LAKIYA-MD/LAKIYA-MD">
-    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Repl.it" >
-    </a>
-</p>
+## 🖼️ Animated Previews
 
+| Home | Commands | Settings |
+|------|----------|----------|
+| ![Home](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/home-animated.gif) | ![Commands](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/commands-animated.gif) | ![Settings](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/settings-animated.gif) |
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+---
 
+## 🎨 Futuristic UI Elements
 
-<br>
- 
-<h4 align="center"> Deploy on Heroku
-</h4>
+- **Neon Buttons**  
+  ![Neon Button](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/neon-button.gif)
+- **Glass Cards**  
+  ![Glass Card](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/glass-card.gif)
+- **Animated Notifications**  
+  ![Notification](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/notification-animated.gif)
 
-</p>
+---
 
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/LAKIYA-MD/LAKIYA-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
+## 🛠️ Configuration
 
-</p>
+Edit your `config.js`:
 
->
+```js
+module.exports = {
+  owner: "DarkShadowMDbot",
+  botName: "Usha MD Vx1",
+  theme: "cyberpunk",
+  colors: ["#00FFE7", "#FF0080", "#5600FF"]
+};
+```
 
-<p align="center" >
-    <br>
-  __________________________
-    <br>
-</p>
+---
 
-<br>
-      
+## 📱 WhatsApp Connection
 
+- **Scan QR Code**  
+  Animated onboarding with glowing QR codes!
+- **Authorize**  
+  Watch your dashboard light up when Usha MD Vx1 goes online.
 
-</details>
+---
 
-<br>
+## ⚡ Animated Commands
 
-# Developers
+```bash
+!sticker      # Sends an animated sticker
+!gif          # Trending GIFs with effects
+!neontext     # Neon glowing animated text
+!weather      # Animated weather icons
+```
 
-<h2 align="center">Queen Usha MD
-</h2>
+---
 
-  <p align="center">
-    
-| <a href="https://mr-lakiya-tech.vercel.app/"><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/Photo2%20copy.jpeg" width=100 height=100></a> |
-|---|
-| **[Inesh Davin](https://github.com/DarkShadowMDbot)**</br>Founder & Developer</br>*[INESH DAVIN]* |
-  </p>
+## 🤝 Contributing
 
+1. Fork the repo
+2. Add your animations, themes, or features
+3. Submit a pull request – let's make it beautiful together!
+
+---
+
+## 🎬 Live Demo
+
+![Live Demo](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/live-demo.gif)
+
+---
+
+## 🪩 Credits
+
+- Design & Animations: [DarkShadowMDbot](https://github.com/DarkShadowMDbot)
+- Icon Assets: [FontAwesome](https://fontawesome.com/)
+- WhatsApp API: [Baileys](https://github.com/adiwajshing/Baileys)
+- Animations: [LottieFiles](https://lottiefiles.com/)
+
+---
+
+## 📜 License
+
+MIT
+
+---
+
+> **Usha MD Vx1** – Where WhatsApp automation meets futuristic beauty.  
+> ![Neon Wave](https://raw.githubusercontent.com/DarkShadowMDbot/usha-md-vx1-assets/main/neon-wave.gif)
