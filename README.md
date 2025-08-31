@@ -73,35 +73,6 @@
 
 <br>
       
-<h4 align="center"> Deploy on Koyeb
-</h4>
-      
-
-   
-
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-
-    
-</p>
-
-<br>
->
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
 
 
 </details>
@@ -117,6 +88,6 @@
     
 | <a href="https://mr-lakiya-tech.vercel.app/"><img src="https://files.catbox.moe/2k7p6c.png" width=100 height=100></a> |
 |---|
-| **[LAKSIDU NIMSARA](https://github.com/LAKIYA-MD/LAKIYA-MD)**</br>Founder & Developer</br>*[LAKSIDU NIMSARA]* |
+| **[LAKSIDU NIMSARA](https://github.com/DarkShadowMDbot)**</br>Founder & Developer</br>*[INESH DAVIN]* |
   </p>
 
