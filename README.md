@@ -1,4 +1,4 @@
-<div align="center"><h1>🧚‍♂️ 𝐋𝐀𝐊𝐈𝐘𝐀 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🧚‍♂️</h1><a href=""><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/usha11.png" width="1280" height="720"></a></div>
+<div align="center"><h1>🧚‍♂️Queen Usha MD🧚‍♂️</h1><a href=""><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/usha11.png" width="1280" height="720"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LAKIYA+MD+WHATSAPP+BOT" alt="">
