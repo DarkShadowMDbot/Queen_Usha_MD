@@ -74,7 +74,7 @@
 
   <p align="center">
     
-| <a href="https://mr-lakiya-tech.vercel.app/"><img src="https://files.catbox.moe/2k7p6c.png" width=100 height=100></a> |
+| <a href="https://mr-lakiya-tech.vercel.app/"><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/Photo2.jpeg" width=100 height=100></a> |
 |---|
 | **[Inesh Davin](https://github.com/DarkShadowMDbot)**</br>Founder & Developer</br>*[INESH DAVIN]* |
   </p>
