@@ -4,11 +4,6 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LAKIYA+MD+WHATSAPP+BOT" alt="">
 </p>
 
-***
-<a align="center"><img src="https://profile-counter.glitch.me/SITHUWA-MD/count.svg" /></a>
-
-  
-**
 
 ## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
 
