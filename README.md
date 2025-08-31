@@ -12,7 +12,6 @@
 <a href="https://github.com/LAKIYA-MD/LAKIYA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LAKIYA-MD/LAKIYA-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/LAKIYA-MD/LAKIYA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/LAKIYA-MD/LAKIYA-MD?style=flat-square&color=green"></a>
 --
-<a align="center"><img src="https://raw.githubusercontent.com/DarkShadowMDbot/BOT-HELPER/refs/heads/main/Photo2%20copy.jpeg" /></a>
 
   
 **
