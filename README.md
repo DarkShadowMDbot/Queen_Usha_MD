@@ -69,13 +69,13 @@
 
 # Developers
 
-<h2 align="center">LAKIYA MD
+<h2 align="center">Queen Usha MD
 </h2>
 
   <p align="center">
     
 | <a href="https://mr-lakiya-tech.vercel.app/"><img src="https://files.catbox.moe/2k7p6c.png" width=100 height=100></a> |
 |---|
-| **[LAKSIDU NIMSARA](https://github.com/DarkShadowMDbot)**</br>Founder & Developer</br>*[INESH DAVIN]* |
+| **[Inesh Davin](https://github.com/DarkShadowMDbot)**</br>Founder & Developer</br>*[INESH DAVIN]* |
   </p>
 
